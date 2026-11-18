@@ -1,3 +1,4 @@
+//Adding Command line for Github actions
 import { test, expect } from '@playwright/test';
 
 test('has title', async ({ page }) => {
